@@ -1,4 +1,4 @@
-some files to compile qmk for conre na rpi 2040, all animations enabled (turns off after 10 seconds), tap dance, oled,  plus some extras
+some files to compile qmk for conre na rpi 2040, all animations enabled (turns off after 10 seconds), tap dance, oled, macros, combos, QMK settings, plus some extras (WIP)
 
 - vial_2040_single - single firmware (main half on right)
 - vial_2040_left - left side 
