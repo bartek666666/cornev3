@@ -9,3 +9,4 @@ TODOS:
 - custom oled animations
 - layers colors (diffrent for each layer)
 - per button colors (depending on layer)
+- os detection
